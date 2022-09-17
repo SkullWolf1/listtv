@@ -49,7 +49,7 @@ https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
 https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1,TVP
-https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN YT 
 https://www.youtube.com/watch?v=wHn1_QVoXGM
