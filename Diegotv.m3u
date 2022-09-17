@@ -51,7 +51,7 @@ https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1,TVP
 https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
-#EXTINF:-1,TN Noticias
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title = "NOTICIAS", TN YT 
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1,Telefe
