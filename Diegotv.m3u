@@ -1,47 +1,70 @@
 #EXTM3U
-#EXTINF:-1,LN+ Noticias:
+
+#EXTINF:-1,LN+ Noticias
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
-#EXTINF:-1,WoW tv:
+
+#EXTINF:-1,WoW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1,Cascara TV:
+
+#EXTINF:-1,Cascara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-#EXTINF:-1,DW Español:
+
+#EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,Canal 57:
+
+#EXTINF:-1,Canal 57
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
-#EXTINF:-1,Canal 26:
+
+#EXTINF:-1,Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,GenTV:
+
+#EXTINF:-1,GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1,Hstory2:
+
+#EXTINF:-1,Hstory2
 https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
-#EXTINF:-1,History:
+
+#EXTINF:-1,History
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1,Fox sport3:
+
+#EXTINF:-1,Fox sport3
 https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1,Fox sport2:
+
+#EXTINF:-1,Fox sport2
 https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1,Fox sport:
+
+#EXTINF:-1,Fox sport
 https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1,Espn2:
+
+#EXTINF:-1,Espn2
 https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
-#EXTINF:-1,Espn extra:
+
+#EXTINF:-1,Espn extra
 https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-#EXTINF:-1,Espn3:
+
+#EXTINF:-1,Espn3
 https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1,America TV:
+
+#EXTINF:-1,America TV
 https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-#EXTINF:-1,TVP:
+
+#EXTINF:-1,TVP
 https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
-#EXTINF:-1,TN Noticias:	
+
+#EXTINF:-1,TN Noticias
 https://www.youtube.com/watch?v=wHn1_QVoXGM
-#EXTINF:-1,Telefe:
+
+#EXTINF:-1,Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1,Espn hd:
+
+#EXTINF:-1,Espn hd
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1,Canal 13:
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8 	
-#EXTINF:-1,Canal 9 hd:
+
+#EXTINF:-1,Canal 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8 
+
+#EXTINF:-1,Canal 9 hd
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1,TNTsport:
+
+#EXTINF:-1,TNTsport
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1663359302~exp=1663359902~acl=/*~hmac=36a5f7221cefc89707c9f385793f490a2bfd52ced3d2baee73b0066cc255b0d6
