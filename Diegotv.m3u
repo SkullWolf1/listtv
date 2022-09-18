@@ -67,7 +67,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1,TNTsport
-https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1663359302~exp=1663359902~acl=/*~hmac=36a5f7221cefc89707c9f385793f490a2bfd52ced3d2baee73b0066cc255b0d6
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,A24 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
